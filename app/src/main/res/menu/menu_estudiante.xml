@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.toshiba.proyecto.EstudianteActivity">
+    <item
+        android:id="@+id/est_cerrar"
+        android:orderInCategory="100"
+        android:title="Cerrar Sesion"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/est_lis_tut"
+        android:orderInCategory="100"
+        android:title="Listar Tutores"
+        app:showAsAction="never" />
+</menu>
